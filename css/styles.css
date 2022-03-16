@@ -1,0 +1,41 @@
+body {
+  background-color: hsl(212, 45%, 89%);
+}
+
+h1 {
+  font-family: 'Outfit', sans-serif;
+  color: hsl(218, 44%, 22%);
+  font-size: 20px;
+  margin: 0 20px 20px 20px;
+  text-align: center;
+}
+
+p {
+font-family: 'Outfit', sans-serif;
+color: hsl(220, 15%, 55%);
+font-size: 15px;
+font-weight: 400;
+margin: 20px;
+text-align: center;
+padding-bottom: 30px;
+}
+
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+.container1 {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5rem;
+  margin-bottom: auto;
+  background-color: white;
+  width: 290px;
+  border-radius: 20px;
+}
+
+.img {
+  margin:15px;
+  width: 260px;
+  border-radius: 10px;
+}
